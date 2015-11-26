@@ -1,0 +1,21 @@
+{
+  "name": "fosp.js",
+  "version": "0.0.1",
+  "description": "FOSP implementation in ES6",
+  "main": "main.js",
+  "keywords": [
+    "FOSP"
+  ],
+  "authors": [
+    "Felix Maurer (felix.maurer@student.kit.edu)"
+  ],
+  "license": "MIT",
+  "homepage": "github.com/maufl/fosp.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
